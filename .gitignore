@@ -4,15 +4,13 @@ npm-debug.log
 .DS_Store
 .idea
 .vscode
-dist
-lib
-es
 tmp
 coverage
 docs-site/bundle.js
 docs-site/style.css
 *.iml
 .idea
+.nvmrc
 
 docs/calendar.md
 docs/date_input.md
